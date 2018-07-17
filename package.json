@@ -1,0 +1,25 @@
+{
+  "name": "WeatherApp",
+  "version": "1.0.0",
+  "description": "API Practice App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PolarisTLX/WeatherApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PolarisTLX/WeatherApp/issues"
+  },
+  "homepage": "https://github.com/PolarisTLX/WeatherApp#readme",
+  "devDependencies": {
+    "webpack": "^4.16.1",
+    "webpack-cli": "^3.0.8"
+  }
+}
